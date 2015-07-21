@@ -4,7 +4,7 @@
 
 * Plugin URI: http://www.phoeniixx.com/
 
-* Description: This plugin lets the customers to login into an ecommerce site via one of their social profiles. This feature helps in increasing conversion rates and correspondingly improving sales.
+* Description: Social Login plugin allows you to let customers associate their social (Facebook and Google+) profiles with your ecommerce site.
 
 * Version: 1.0
 
