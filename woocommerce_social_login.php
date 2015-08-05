@@ -1,19 +1,12 @@
-<?php
-/**
-* Plugin Name: Social Login Lite For WooCommerce
-
-* Plugin URI: http://www.phoeniixx.com/
-
-* Description: Social Login plugin allows you to let customers associate their social (Facebook and Google+) profiles with your ecommerce site.
-
-* Version: 1.0
-
-* Author: Phoeniixx Team
-
-* Author URI: http://www.phoeniixx.com/
-
-* License: GPL2
-
+<?php
+/**
+* Plugin Name: Social Login Lite For WooCommerce
+* Plugin URI: http://www.phoeniixx.com/
+* Description: Social Login plugin allows you to let customers associate their social (Facebook and Google+) profiles with your ecommerce site.
+* Version: 1.0
+* Author: Phoeniixx
+* Author URI: http://www.phoeniixx.com/
+* License: GPL2
 */ 
 
 ob_start();
