@@ -4,7 +4,7 @@
 * Plugin URI: http://www.phoeniixx.com/
 * Description: Social Login plugin allows you to let customers associate their social (Facebook and Google+) profiles with your ecommerce site.
 * Version: 1.0
-* Author: Phoeniixx
+* Author: phoeniixx
 * Author URI: http://www.phoeniixx.com/
 *License: GPLv2 or later*License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */ 
