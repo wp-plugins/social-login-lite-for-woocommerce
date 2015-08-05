@@ -6,7 +6,7 @@
 * Version: 1.0
 * Author: Phoeniixx
 * Author URI: http://www.phoeniixx.com/
-* License: GPL2
+*License: GPLv2 or later*License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */ 
 
 ob_start();
