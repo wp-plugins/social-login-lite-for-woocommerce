@@ -10,7 +10,7 @@ function psl_add_checkout_notice() {
             wc_print_notice( __("Social Sign In: <a href='#' id='social_login'>".$checkout_label."</a>", 'woocommerce' ), 'notice' );
             ?>
 				
-              <form  method="post" id="social_login_button" class="checkout_coupon" >
+              <form  method="post" id="social_login_button" >
             	<p class="form-row form-row-first login-checkout">
 			
                        <?php if($enable_facebook=='on'){ ?>
