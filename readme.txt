@@ -2,8 +2,8 @@
 Contributors: phoeniixx
 Tags: Social Login Lite For WooCommerce, phoeniixx, woocommerce, woocommerce plugins, ecommerce, social login, login, social provider, social authentication, authentication, connect with social, woocommerce connect, facebook, google, register, social networks.
 Requires at least: 4.0
-Tested up to: 4.2.2
-Stable tag: 1.1
+Tested up to: 4.3
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,6 +58,9 @@ This plugin lets the customers to login into an ecommerce site via one of their 
 4. It shows Social Login on My Account Page.
 
 == Changelog ==
+
+= 1.2 - 21/08/2015 =
+* Compatibilty Fixes.
 
 = 1.1 - 12/08/2015 =
 * Bug Fixes.
