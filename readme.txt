@@ -3,7 +3,7 @@ Contributors: phoeniixx
 Tags: Social Login Lite For WooCommerce, phoeniixx, woocommerce, woocommerce plugins, ecommerce, social login, login, social provider, social authentication, authentication, connect with social, woocommerce connect, facebook, google, register, social networks.
 Requires at least: 4.0
 Tested up to: 4.3
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,22 +16,24 @@ This plugin lets the customers to login into an ecommerce site via one of their 
 
 **Free Plugin Features**
 
-1. Login with Facebook
-2. Login with Google
-3. Customize text to display in place of 'Login With' on Login Page.
-4. Customize text to display in place of 'Login With' on Checkout Page.
-
+1. Login with Facebook.
+2. Login with Google.
+3. After a new user has logged into your website using a Social Login (Facebook or Google+), a unique Login ID & Password is generated and mailed to the user. The user could thereafter, choose to access his account either by using this unique ID or through Social Login.  
+4. You could choose to upload an icon of your preference, for Facebook and/or Google+.
+5. You could also add Social Login Label on your Login Page, Register Page and/or Checkout Page.
+6. You could also access a report on the number of connections that you’ve got through Facebook and Google+, distinctly.
 
 **Support**
 
-**Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
 
 **Skype** - phoeniixx.tarun
 
 **Ticket system** - [Click here](http://www.phoeniixx.com/support)
 
-**Website** - [phoeniixx.com](http://www.phoeniixx.com)
+**Website** - [http://www.phoeniixx.com/products/](http://www.phoeniixx.com/products/)
 
+​**Documentation link** - Click here for [Documentation](http://www.phoeniixx.com/wp-content/uploads/2015/09/documentation-social-login.pdf)
 
 == Installation ==
 
@@ -58,6 +60,9 @@ This plugin lets the customers to login into an ecommerce site via one of their 
 4. It shows Social Login on My Account Page.
 
 == Changelog ==
+
+= 1.3 - 28/08/2015 =
+* New Features Added.
 
 = 1.2 - 21/08/2015 =
 * Compatibilty Fixes.
