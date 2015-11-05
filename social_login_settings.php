@@ -23,6 +23,7 @@
 		<h2 class="nav-tab-wrapper woo-nav-tab-wrapper">
 			<a class="nav-tab <?php if($tab2 == 'general' || $tab2 == ''){ echo esc_html( "nav-tab-active" ); } ?>" href="?page=psl-social-login&amp;tab2=general">General</a>
 			<a class="nav-tab <?php if($tab2 == 'reports'){ echo esc_html( "nav-tab-active" ); } ?>" href="?page=psl-social-login&amp;tab2=reports">Reports</a>
+			<a class="nav-tab <?php if($tab2 == 'allp'){ echo esc_html( "nav-tab-active" ); } ?>" href="?page=psl-social-login&amp;tab2=allp">More Plugins</a>
 		</h2>
 
     <div class="icon32" id="icon-users"><br></div>
@@ -371,7 +372,28 @@
 				</div>
 			</body>
 		</html>
-	<?php }?>
+	<?php 
+	}
+	if($tab2 == 'allp')
+	{
+		
+	
+			?>
+		<style>
+		iframe.more-plugin {
+			min-height: 1000px;
+			width: 100%;
+		}
+
+		.wrap{
+			margin:0;
+		}
+		</style>
+			<iframe class="more-plugin" src="http://plugins.snapppy.com/plugins.php"></iframe> 
+			<?php
+
+	}
+	?>
   </div>  
 <style>
 .socialchart {
